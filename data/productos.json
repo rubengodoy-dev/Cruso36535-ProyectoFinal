@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1657042533991,
+        "nombre": "nombre 1",
+        "descripcion": "descripcion 1",
+        "codigo": "001",
+        "foto": "https://picsum.photos/200/300",
+        "precio": 200,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "timestamp": 1657042539991,
+        "nombre": "nombre 2",
+        "descripcion": "descripcion 2",
+        "codigo": "002",
+        "foto": "https://picsum.photos/200/302",
+        "precio": 200,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "timestamp": 1657053113816,
+        "nombre": "nombre 3",
+        "descripcion": "descripcion 3",
+        "codigo": "003",
+        "foto": "https://picsum.photos/200/302",
+        "precio": 2470,
+        "stock": 14
+    }
+]
